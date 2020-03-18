@@ -72,6 +72,3 @@ TODO (0318)
 
 ## Contact to author
 Younggyun Hahm. `hahmyg@kaist.ac.kr`, `hahmyg@gmail.com`
-
-## Acknowledgement
-This work was supported by Institute for Information & communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (2013-0-00109, WiseKB: Big data based self-evolving knowledge base and reasoning platform)
